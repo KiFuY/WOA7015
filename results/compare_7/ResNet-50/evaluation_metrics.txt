@@ -1,0 +1,5 @@
+Evaluation Metrics
+==================
+Accuracy: 87.50%
+Recall: 87.50%
+F1 Score: 87.30%
