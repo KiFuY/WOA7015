@@ -6,14 +6,24 @@ https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 The data set is structured as follows:
 chest_xary-------------------------
+
 	test----------------------------
+ 
 		NORMAL----------------
+  
 		PNEUMONIA-----------
+  
 	train------------------
+ 
 		NORMAL----------------
+  
 		PNEUMONIA-----------
+  
 	val-----------------------------
+ 
 		NORMAL----------------
+  
 		PNEUMONIA-----------
+  
 
 Because the data set is too large to upload, please download the data set through this link and put it in accordance with this structure.
