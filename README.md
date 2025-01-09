@@ -35,3 +35,5 @@ If you're not using a 30-series or 40-series graphics card, change the version o
 **test_model.py** randomly selects 10 images from the test set for visualization.
 
 # Results
+||Accuracy|Recall|F1 Score|
+---------------------------
