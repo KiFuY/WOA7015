@@ -20,3 +20,6 @@ The data set is structured as follows:
   
 
 Because the data set is too large to upload, please download the data set through this link and put it in accordance with this structure. The uploaded file contains only a few images for the test run after downloading, and cannot be used as formal training.
+
+# Running
+After the decompression is complete, ensure that all files are in the same directory, and run the pip install -r requirements.txt command on the terminal
