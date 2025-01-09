@@ -36,9 +36,13 @@ If you're not using a 30-series or 40-series graphics card, change the version o
 
 # Results
 
+The best training results are stored in the compare_7 folder and the results are as follows.
+
 |Model|Accuracy|Recall|F1 Score|
 |-----|--------|------|--------|
 |CNN|77.88%|71.20%|72.41%|
 |RestNet-50|87.50%|87.50%|87.30%|
 
 ![image](https://github.com/KiFuY/WOA7015/blob/main/results/compare_7/roc_curve_comparison.png)
+
+
