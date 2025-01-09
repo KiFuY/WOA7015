@@ -7,6 +7,7 @@ https://data.mendeley.com/datasets/rscbjbr9sj/2
 The data set is structured as follows:
 
   chest_xary-------------------------
+  
       test----------------------------
           NORMAL----------------
           PNEUMONIA-----------
