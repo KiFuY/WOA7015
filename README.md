@@ -35,7 +35,10 @@ If you're not using a 30-series or 40-series graphics card, change the version o
 **test_model.py** randomly selects 10 images from the test set for visualization.
 
 # Results
+
 |Model|Accuracy|Recall|F1 Score|
 |-----|--------|------|--------|
 |CNN|77.88%|71.20%|72.41%|
 |RestNet-50|87.50%|87.50%|87.30%|
+
+[results/compare_7/roc_curve_comparison.png](https://github.com/KiFuY/WOA7015/blob/main/results/compare_7/roc_curve_comparison.png)
