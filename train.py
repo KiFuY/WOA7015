@@ -16,8 +16,8 @@ def get_unique_compare_dir(base_dir):
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-train_dir = "chest_xray/chest_xray/train"
-val_dir = "chest_xray/chest_xray/val"
+train_dir = "chest_xray/train"
+val_dir = "chest_xray/val"
 
 # Data augmentation
 data_transforms_aug = {
