@@ -43,6 +43,6 @@ The best training results are stored in the compare_7 folder and the results are
 |CNN|77.88%|71.20%|72.41%|
 |ResNet-50|87.50%|87.50%|87.30%|
 
-![image](https://github.com/KiFuY/WOA7015/blob/main/results/compare_7/roc_curve_comparison.png)
+![image](results/compare_7/roc_curve_comparison.png)
 
 
