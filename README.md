@@ -5,24 +5,16 @@ The project is to predict normal and pneumonia by training AI models to recogniz
 https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 The data set is structured as follows:
-chest_xary-------------------------
 
+chest_xary-------------------------
 	test----------------------------
- 
 		NORMAL----------------
-  
 		PNEUMONIA-----------
-  
 	train------------------
- 
 		NORMAL----------------
-  
 		PNEUMONIA-----------
-  
 	val-----------------------------
- 
 		NORMAL----------------
-  
 		PNEUMONIA-----------
   
 
