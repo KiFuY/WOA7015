@@ -24,7 +24,7 @@ Because the data set is too large to upload, please download the data set throug
 # Running
 After the decompression is complete, ensure that all files are in the same directory. Run
 
-pip install -r requirements.txt 
+**pip install -r requirements.txt** 
 
 on the terminal. If you're not using a 30-series or 40-series graphics card, change the version of Pytorch as needed.
 
