@@ -14,9 +14,9 @@ The data set is structured as follows:
       train------------------
           NORMAL----------------
           PNEUMONIA-----------
-    val-----------------------------
+      val-----------------------------
           NORMAL----------------
           PNEUMONIA-----------
   
 
-Because the data set is too large to upload, please download the data set through this link and put it in accordance with this structure.
+Because the data set is too large to upload, please download the data set through this link and put it in accordance with this structure. The uploaded file contains only a few images for the test run after downloading, and cannot be used as formal training.
