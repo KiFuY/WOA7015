@@ -28,5 +28,9 @@ Run **pip install -r requirements.txt** on the terminal.
 
 If you're not using a 30-series or 40-series graphics card, change the version of Pytorch as needed.
 
-train.py is used to train the model, evaluate_model.py is used to evaluate the model on test set. test_model.py randomly selects 10 images from the test set for visualization.
+**train.py** is used to train the model.
+
+**evaluate_model.py** is used to evaluate the model on test set. 
+
+**test_model.py** randomly selects 10 images from the test set for visualization.
 
